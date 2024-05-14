@@ -23,7 +23,6 @@ import androidx.recyclerview.widget.RecyclerView
 import kotlin.concurrent.thread
 
 class MainActivity : AppCompatActivity() {
-
     private lateinit var cardLayout: CardView
     private lateinit var textView: TextView
     private lateinit var button: Button
